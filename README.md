@@ -2,9 +2,7 @@
 
 **Proje kökü:** `pine-script-v6-realistic-backtest/` (`d:\SoftWare\pine-script-v6-realistic-backtest`)
 
-TradingView Pine Script **v6** için gerçekçi backtest örneği. Blog yazısı *“Pine Script v6 Backtest: 7 Adımda Gerçekçi Strateji Testi”* ile eşleşir.
-
-Repo: [HoLyDreaM/pine-script-v6-realistic-backtest](https://github.com/HoLyDreaM/pine-script-v6-realistic-backtest)
+TradingView Pine Script **v6** için gerçekçi backtest örneği.
 
 ## Dosyalar
 
@@ -35,6 +33,18 @@ Repo: [HoLyDreaM/pine-script-v6-realistic-backtest](https://github.com/HoLyDreaM
 
 Bu örnek eğitim amaçlıdır; kârlılık garantisi vermez. Strategy Tester sonucunu komisyon, slippage, drawdown ve forward test ile birlikte yorumlayın.
 
+## İlgili Makale
+
+### Pine Script v6 Backtest: 7 Adımda Gerçekçi Strateji Testi
+
+https://www.mehmet-ozdemir.com.tr/pine-script-v6-backtest-7-adimda-gercekci-strateji-testi/
+
+## Yazar
+
+Mehmet Özdemir
+
+Web Sitesi: https://www.mehmet-ozdemir.com.tr/
+
 ## Lisans
 
-Kod örnek olarak paylaşılmıştır; istediğiniz gibi uyarlayabilirsiniz.
+MIT
